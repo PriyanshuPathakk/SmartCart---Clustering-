@@ -263,20 +263,6 @@ The notebook generates **12+ publication-quality visualizations**, including:
 
 ---
 
-## 📝 Resume Highlights
-
-**ATS-optimized bullet points for your CV/resume:**
-
-> - **Engineered 8+ behavioral features** (RFM scores, AOV, tenure) from 2,240-customer dataset and applied PCA (22 → 3 components, ~45% variance) to reduce dimensionality for unsupervised clustering
->
-> - **Benchmarked 3 clustering algorithms** (K-Means, Agglomerative, DBSCAN) using Silhouette Score, Calinski-Harabasz, and Davies-Bouldin indices; selected optimal K-Means (k=4) configuration
->
-> - **Identified 4 distinct customer personas** with a 3.2× spending differential (₹166 → ₹1,236 avg) and campaign response rates ranging from 3% to 32%, enabling segment-specific marketing strategies
->
-> - **Produced 12+ publication-quality visualizations** (3D PCA, t-SNE, radar charts, heatmaps) and translated cluster insights into actionable business recommendations with estimated revenue impact
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
